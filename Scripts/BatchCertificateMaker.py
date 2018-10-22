@@ -46,7 +46,7 @@ def createBatchCertificates():
             output_pdf.encrypt(passwords[pNum],'helloworld!!!')
             
             #Complete Path
-            file = destination_path + '/' + names[pNum] + str(pNum+1) + '.pdf'
+            file = destination_path + '/' + names[pNum] + '.pdf'
             
             #Create Output File
             with open(file, "wb") as out_file:
