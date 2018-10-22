@@ -3,8 +3,7 @@
 An Open Source Python Project to generate Batch of Certificates. 
 
 Developer  : [Shashank Sharma](mailto:shashankrnr32@gmail.com)
-Contributors : 
-
+ 
 
 ## Features
 - Convert single Mail Merge Certificate File to Individual Certificate Files
