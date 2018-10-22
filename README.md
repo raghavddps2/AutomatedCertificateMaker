@@ -36,7 +36,7 @@ Interaction with File/Folder Select
 
 1. Select Mail-Merged Certificate File
 2. Select Volunteer/Participants/Co-ordinators Excel Sheet
-3. Select Destination Folder to generate individual certificates ( **New Folder Recommended**) 
+3. Select Destination Folder to generate individual certificates (**New Folder Recommended**) 
 
 ---
 ### Generated File Names
