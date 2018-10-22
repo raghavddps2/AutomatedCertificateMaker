@@ -55,6 +55,7 @@ The scripts are written for extracting data from Sheet 1 of the spreadsheet. Add
 Edit the script ReadSpreadsheet.py as per your needs. 
 
 **Example Table :**
+
 | Name | Password  |
 |--|--|
 |John Doe | johndoe@xyz.com |
