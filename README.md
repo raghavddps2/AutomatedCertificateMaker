@@ -64,7 +64,4 @@ Edit the script ReadSpreadsheet.py as per your needs.
 ---
 ## Testing 
 The following project is tested on Windows. It will be tested on other platforms as well in the coming days. Feel free to leave a [mail
-](mailto:shashankrnr32@gmail.com) in case of Errors/Bugs/Feedback
-
-## Project Requirement
-This project is developed as a support IEEE-RIT's e-certificate management for all the events conducted. 
+](mailto:shashankrnr32@gmail.com)
